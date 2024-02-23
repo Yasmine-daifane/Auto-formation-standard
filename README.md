@@ -1,1 +1,1 @@
-# Auto-formation-standard
+# Lab-standard
