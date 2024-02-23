@@ -7,7 +7,7 @@ order: 1
 
 # Introduction
 
-![Introduction](/Auto-formation-standard/images/introduction.png){:width="400px" }
-*Les apprenants de solicode*
+![Introduction](/Auto-formation-standard/introduction/images/introduction.png){:width="400px" }
+*introduction*
 
 <!-- new slide -->
